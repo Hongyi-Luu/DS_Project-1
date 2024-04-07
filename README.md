@@ -22,7 +22,7 @@ For this project, I was interested in analysing the Seattle Airbnb dataset from 
 
 ## File Descriptions <a name="files"></a>
 
-A single notebook, titled 'main.ipynb', is available here to showcase the work related to the above-mentioned questions.
+A single notebook, titled 'main.ipynb', is available here to showcase the work related to the above-mentioned questions. Three CSV files are the main datasets used in this study. 
 
 ## Results<a name="results"></a>
 
